@@ -1,0 +1,7 @@
+objs
+*.o
+*.a
+*.swp
+
+program
+*_shrubbery
