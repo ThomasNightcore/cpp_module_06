@@ -20,7 +20,7 @@ OBJ_FILES 			:= $(CFILES_ROOT:.cpp=.o) \
 OBJS				:= $(addprefix $(OBJS_DIR), $(OBJ_FILES))
 
 # Compilation variables
-NAME				= convert
+NAME				= program
 CXX 				= c++
 CXXFLAGS 			= -Wall -Werror -Wextra -std=c++98
 RM 					= rm -rf
