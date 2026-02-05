@@ -13,9 +13,6 @@ OBJS_DIR			= ./objs/
 # Source files
 CFILES_ROOT			= main.cpp \
 					  Base.cpp \
-					  A.cpp \
-					  B.cpp \
-					  C.cpp \
 
 OBJ_FILES 			:= $(CFILES_ROOT:.cpp=.o) \
 
